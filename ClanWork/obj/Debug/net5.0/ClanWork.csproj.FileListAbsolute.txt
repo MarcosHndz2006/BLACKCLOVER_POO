@@ -1,0 +1,16 @@
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\bin\Debug\net5.0\ClanWork.exe
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\bin\Debug\net5.0\ClanWork.deps.json
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\bin\Debug\net5.0\ClanWork.runtimeconfig.json
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\bin\Debug\net5.0\ClanWork.runtimeconfig.dev.json
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\bin\Debug\net5.0\ClanWork.dll
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\bin\Debug\net5.0\ref\ClanWork.dll
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\bin\Debug\net5.0\ClanWork.pdb
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\obj\Debug\net5.0\ClanWork.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\obj\Debug\net5.0\ClanWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\obj\Debug\net5.0\ClanWork.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\obj\Debug\net5.0\ClanWork.AssemblyInfo.cs
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\obj\Debug\net5.0\ClanWork.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\obj\Debug\net5.0\ClanWork.dll
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\obj\Debug\net5.0\ref\ClanWork.dll
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\obj\Debug\net5.0\ClanWork.pdb
+C:\Users\ACER\Documents\Workspace\POO012021\Labos\ClanWork\obj\Debug\net5.0\ClanWork.genruntimeconfig.cache
