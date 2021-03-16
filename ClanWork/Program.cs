@@ -13,13 +13,14 @@ namespace ClanWork
             Console.WriteLine("Ingrese un valor entero a 'b': "); // y de igual manera para la variable 'b' desde teclado
             b = Convert.ToInt32(Console.ReadLine());  
 
-            Console.WriteLine($"La suma de {a} + {b} da como resultado: {AddNumbers(a,b)}");
+            //Console.WriteLine($"La suma de {a} + {b} da como resultado: {AddNumbers(a,b)}");
+            Console.WriteLine($"El producto de {a} + {b} da como resultado: {MultiplyNumbers(a,b)}"); //cambiando a multiplicación
 
         }
 
-        public static int AddNumbers(int a, int b)
+        public static int MultiplyNumbers(int a, int b)
         {
-            return a+b;
+            return a*b;
         }
     }
 }
