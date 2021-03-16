@@ -14,7 +14,7 @@ namespace ClanWork
             b = Convert.ToInt32(Console.ReadLine());  
 
             //Console.WriteLine($"La suma de {a} + {b} da como resultado: {AddNumbers(a,b)}");
-            Console.WriteLine($"El producto de {a} + {b} da como resultado: {MultiplyNumbers(a,b)}"); //cambiando a multiplicación
+            Console.WriteLine($"El producto de {a} * {b} da como resultado: {MultiplyNumbers(a,b)}"); //cambiando a multiplicación
 
         }
 
