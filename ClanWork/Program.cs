@@ -14,13 +14,13 @@ namespace ClanWork
             b = Convert.ToInt32(Console.ReadLine());  
 
             //Console.WriteLine($"La suma de {a} + {b} da como resultado: {AddNumbers(a,b)}");
-            Console.WriteLine($"El producto de {a} * {b} da como resultado: {MultiplyNumbers(a,b)}"); //cambiando a multiplicación
+            Console.WriteLine($"El producto de {a} * {b} da como resultado: {SubstractNumbers(a,b)}"); //cambiando a multiplicación / cambiando de multiplicacion a resta
 
         }
 
-        public static int MultiplyNumbers(int a, int b)
+        public static int SubstractNumbers(int a, int b)
         {
-            return a*b;
+            return a-b; // Se cambio de multiplicacion a resta 
         }
     }
 }
